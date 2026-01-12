@@ -593,6 +593,7 @@ tbody tr:hover {
 
 /* ====== FLOATING BUTTONS ====== */
 .floating-buttons {
+    display: none !important;
     position: fixed;
     bottom: 30px;
     right: 30px;
@@ -701,4 +702,5 @@ tbody tr:hover {
         padding: 10px;
         font-size: 0.9rem;
     }
+
 }
