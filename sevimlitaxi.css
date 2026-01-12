@@ -373,11 +373,6 @@ tbody tr:hover {
     color: var(--secondary);
 }
 
-/* ====== ORDER FORM ====== */
-.order {
-    padding: 80px 0;
-    background: white;
-}
 
 .order-form {
     max-width: 800px;
@@ -704,5 +699,6 @@ tbody tr:hover {
     }
 
 }
+
 
 
