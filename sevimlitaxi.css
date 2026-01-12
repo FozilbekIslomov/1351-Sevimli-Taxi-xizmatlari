@@ -191,6 +191,16 @@ body {
     background: var(--accent);
     color: white;
 }
+.btn-order {
+    background: white;
+    color: var(--primary);
+}
+
+.btn-order:hover {
+    background: #f0f0f0;
+    transform: translateY(-3px);
+    box-shadow: var(--shadow);
+}
 
 .btn-call:hover {
     background: #d84343;
@@ -687,6 +697,7 @@ tbody tr:hover {
     }
 
 }
+
 
 
 
