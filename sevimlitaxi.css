@@ -620,9 +620,8 @@ tbody tr:hover {
     background: var(--secondary);
 }
 
-.order-float {
-    background: var(--primary);
-}
+
+
 
 .float-btn:hover {
     transform: scale(1.1);
@@ -699,6 +698,7 @@ tbody tr:hover {
     }
 
 }
+
 
 
 
